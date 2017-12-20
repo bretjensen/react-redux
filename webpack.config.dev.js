@@ -8,7 +8,7 @@ export default {
   entry: [
       'eventsource-polyfill',
       'webpack-hot-middleware/client?reload=true',
-      './src'
+      './src/index'
   ],
   targe: 'web',
   output: {
