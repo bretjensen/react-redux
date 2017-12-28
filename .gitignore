@@ -24,7 +24,7 @@ coverage
 .grunt
 
 # PHP Storm project directory
-.idea
+.idea/
 
 # Bower dependency directory (https://bower.io/)
 bower_components
